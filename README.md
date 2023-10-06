@@ -5,9 +5,9 @@ I am a junior from Dartmouth College study Computer Science and Physics. My inte
 
 🔭 I’m currently working on my personal portfolio website and a side project for my Digital Applied Learning and Innovation (DALI) Lab application at Dartmouth College. 
 
-🌱 I’m currently learning TypeScript at my internship, and learning to transform Figma prototypes into functional frontend components that match the company's creative vision. 
+🌱 I’m currently learning TypeScript at Hume AI, and learning to transform Figma prototypes into functional frontend components that match the company's creative vision. 
 
-💬 Ask me about using AI for good and how to implement it into large-scale projects. 
+💬 Ask me about using AI for good and how to implement it into projects! 
 
 ⚡ Fun fact: I have a cat named Pie 🥧
 
