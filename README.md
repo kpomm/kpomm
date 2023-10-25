@@ -1,4 +1,7 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 ### Welcome to my Page
 
 I am a junior from Dartmouth College studying Computer Science and Physics. My interests include full-stack web development, UI/UX design, machine learning, and data science. I am currently a Creative Technologist Intern at Hume AI with intentions to pursue Software Engineering as a full time career. 
