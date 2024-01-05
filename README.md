@@ -4,9 +4,9 @@
 
 ### Welcome to my Page
 
-I am a junior from Dartmouth College studying Computer Science and Physics. My interests include full-stack web development, UI/UX design, machine learning, and data science. I am currently a Creative Technologist Intern at Hume AI with intentions to pursue Software Engineering as a full time career. 
+I am a junior from Dartmouth College studying Computer Science and Physics. My interests include full-stack web development, UI/UX design, machine learning, and data science. Recently completed a Creative Technologist internship with Hume AI this fall, and hope to pursue Software Engineering as a full time career. 
 
-🔭 I’m currently working on my personal portfolio website and a side project called "StellarBites." 
+🔭 I’m currently working on my personal portfolio website and taking two cs classes: Machine-Learning and Software Design and Implementation. 
 
 🌱 I’m currently learning TypeScript at Hume AI, and learning to transform Figma prototypes into functional frontend components that match the company's creative vision. 
 
