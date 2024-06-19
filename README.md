@@ -7,9 +7,9 @@
 I am a junior from Dartmouth College studying Computer Science and Physics. My interests include full-stack web development, UI/UX design, machine learning, and data science. 
 
 
-🔭 I’m currently working on my personal portfolio website and taking two cs classes: Machine-Learning and Software Design and Implementation. 
+🔭 I’m currently working on a one-page static site that plays with unconventional UI. 
 
-🌱 I’m currently learning C and Machine-Learning. 
+🌱 I’m currently learning about cool frontend UI packages.
 
 💬 Ask me about using AI for good and how to implement it into projects! 
 
