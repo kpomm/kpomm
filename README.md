@@ -7,11 +7,6 @@
 I am an AI Engineer at Apollo who studied Computer Science and Physics at Dartmouth College. My interests include full-stack web development, UI/UX design, machine learning, and data science. 
 
 
-🔭 I’m currently working on a one-page static site that plays with unconventional UI. 
-
-🌱 I’m currently learning about cool frontend UI packages.
-
-💬 Ask me about using AI for good and how to implement it into projects! 
 
 ⚡ Fun fact: I have a cat named Pie 🥧
           
