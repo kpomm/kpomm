@@ -4,7 +4,7 @@
 
 ### Welcome to my Page
 
-I am a junior from Dartmouth College studying Computer Science and Physics. My interests include full-stack web development, UI/UX design, machine learning, and data science. 
+I am an AI Engineer at Apollo who studied Computer Science and Physics at Dartmouth College. My interests include full-stack web development, UI/UX design, machine learning, and data science. 
 
 
 🔭 I’m currently working on a one-page static site that plays with unconventional UI. 
